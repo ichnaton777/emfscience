@@ -135,9 +135,9 @@ This will require a political consideration of investment vs. healt.
 
 Thut's table shows the frequency, i.e. the tone, of each element.
 * In F:  resonate the elements Nitrogen, Silicium and the iron-ion Fe<sup>3+</sup>
-* In C:  on the edge (!) of C we find carbondioxyde CO<sub>2</sub>
-* In G#: hydroxyde OH<sup>-</sup>
-* In A:  the electron e, water H<sub>2</sub>O and phosphate P<sub>2</sub>O<sub>5</sub>
+* In C:  on the edge (!) of C we find carbondioxide CO<sub>2</sub>
+* In G#: hydroxide OH<sup>-</sup>
+* In A:  the Electron e, Water H<sub>2</sub>O and Phosphate P<sub>2</sub>O<sub>5</sub>
 * In G:  resonate Sulfur, Zinc, Copper, Oxygen, Helium and Hydrogen
 * In D:  Carbon C, Magnesium MG, Platinum Pt, Gold Au, Sulphate SO<sub>4</sub><sup>=</sup> and Titanium Ti.
 
