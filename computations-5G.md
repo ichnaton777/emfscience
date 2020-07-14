@@ -5,7 +5,6 @@ Henk Kieft, june 14, 2002. Addendum by Hans Geesink, june 2, 2020
 ## Translator notes
 - Original title: Berekening optimale frequenties 5G ten gunste van mens, dier, bodem en plant.
 - Source URL: https://emfscienceplatform.nl/wp-content/uploads/Berekening-aangepaste-frequenties-5G-ten-gunste-van-mens-Henk-Kieft-14-juni-2020.pdf
-titled
 - Translation status: initial, partial, unverified
 
 ## Introduction
@@ -46,4 +45,14 @@ Meijer & Geesink named this overview the 'Generalized Music' scale. This has not
 insight in the alternation of frequencies beneficial and harmful in the examined life processes. A relavant new insight added 
 to the debates on the pssible effects of 5G on the health of humans, animals and plants.
 
-## Walther Thut
+## Walter Thut
+Moving on to the comoutations by Walter Thut. The synthesys of Meier & Geesink turns out to fit into the frequency table of
+**Walter Thut** seamlessly. He has worked upon the quantum principle that every mass also has its own frequency 
+(the so called particle-wave duality, or mass-frequency duality). He computed the tones (i.e. frequencies) of all 
+chemical elements in the periodic system. This resulted in the _Table with elements and molecules_ below. For every element
+and its mass, and for several molecules and their masses, he computed the frwquency using the method of quantum physicist
+Louis de Broglie. He combined the formulas E=mc<sup>2</sup>  and E=hf. Both formulas use the same energy contents E and hence can be equalised. This means mass and frequency are in a linear relationship. In other words: double the weight of an element and its frequency doubles. 
+
+
+
+
