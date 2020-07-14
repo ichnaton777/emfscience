@@ -107,4 +107,30 @@ Meijer and geesink position this typical frequency of a water mulecule central i
 
 Mc<sup>2</sup> = hf => f (Hz) = 2,981 x M (g mol-<sup>1</sup>). M is the molecule weight of water, c is the speed of light 299,792,458 m/s h is Planck's constant 6.62606959 x 10<sup>-34</sup> and f is the frequency of a water molecule.
 
+### Relevance of these new insights to the choice of 5G-frequencies?
+
+Our conclusion is clear: both approaches, Generalized Music Scale and Harmonic Elements Table, conclude unambiguously 
+regarding life supporting and life threatening frequencies. This conclusion rises the question to the meaning of this
+thinking to expected effects of the introduction of the fifth generation of wireless communications 5G. How do 
+life supporting frequencies relate to the frequencies under auction?
+
+The Netherlands have intended to auction the following frequencies: 700 MHz, 1,400 GHz, 2,1 GHz, 3,5 GHz and 26 GHz. 
+Again, using octaving, these very high frequencies convert to the base octave in the audible spectrum, also between
+250 and 500 Hz. These tones are next compared to the frequencies of Meier & Geesink and Thut. 4 of these 5 frequencies are
+not supporting life processes (depicted  with :exclamation: in the column _ocatved_. Then, search the adjecent beneficial frequency 
+(indicated by :green_heart: , depicted in the column _adjusted_. Very minor shifts in frequency turn out to be required (in the column _new for
+auction_) in order to expect a more optimal effect. These small adjustments are to easily made technically in
+transmission towers, satellites, antennas and cell phones, but require additional investments for parts that have 
+already been produced and installed. This means that a cost/balance consideration is required with an uncommon denominator.
+This will require a political consideration of investment vs. healt.
+
+| Intended freq. for auction  | octaved to base freq | adjusted          | new for auction freq | elements tone |
+| ----------------------------|----------------------|-------------------|----------------------|---------------|
+| 700 Mhz                     | 333,8 :exclamation:  | 342 :green_heart: | 717,2 MHz            | F             |
+
+
+
+:green_heart:
+:exclamation:
+
 
