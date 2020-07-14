@@ -51,8 +51,16 @@ Moving on to the comoutations by Walter Thut. The synthesys of Meier & Geesink t
 (the so called particle-wave duality, or mass-frequency duality). He computed the tones (i.e. frequencies) of all 
 chemical elements in the periodic system. This resulted in the _Table with elements and molecules_ below. For every element
 and its mass, and for several molecules and their masses, he computed the frwquency using the method of quantum physicist
-Louis de Broglie. He combined the formulas E=mc<sup>2</sup>  and E=hf. Both formulas use the same energy contents E and hence can be equalised. This means mass and frequency are in a linear relationship. In other words: double the weight of an element and its frequency doubles. 
-
+Louis de Broglie. He combined the formulas E=mc<sup>2</sup>  and E=hf. Both formulas use the same energy contents E and 
+hence can be equalised. This means mass and frequency are in a linear relationship. In other words: double the weight of 
+an element and its frequency doubles. These computed frequencies varied widely, inducing his search for a handy overview. 
+This became the ocave, known from music, which is also a play of frequencies. He is a guitar player so he knows a method of 
+harmonic music, octaving. Every tone harmonises with tones of double or quadruple frequencies - so one or two octaves up, 
+but also with tones with half or quarter of the original frequency. He halved (octaved) computed frequencies of elements 
+and molecules until the fit within a diagram of a 12-tonal octave in the audible spectrum, between 250 Hz and 500 Hz. 
+The figure below is the result of his octaving. Thut was completely surprised by what he saw: **All elements beneficial to
+the human healthy body almost exactly match the frequencies of the 12 tones in an octave.** All non-healthy element, such as lead, 
+are bordering healthy elements.
 
 
 
