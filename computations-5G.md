@@ -86,3 +86,25 @@ frequency overviews. The very broad inventory of international publications by M
 has yielded truthfulness in the succesful application of water treatment in agriculture, appear to match. This conclusion 
 amplifies the credibility of both approaches. It also amplifies its relevance for the analysis of possible effects of 5G on life processes.
 
+![Comparison of the GM-scale and the HET-table.](https://raw.githubusercontent.com/ichnaton777/emfscience/master/comparison-tones-frequencies.png)
+
+Geesink also compared Thut's HET to the GM-System (Generalized Music Scale). He too found a strong similarity: 
+5 frequencies match exactly, 3 frequencies deviate about 1% and 4 frequencies deviate less than 1%.
+
+Subsequently, Geesink sorts the optimal frequencies - the 12 full and halve tones - of both approaches starting with C, as 
+is more comon with do-re-mi etc.  Colour choice of both approaches are also almost identical obviously, for these are the
+12 base tones  octaved to the light spectre. See below.
+
+![](https://raw.githubusercontent.com/ichnaton777/emfscience/master/colors%20and%20harmonics.png)
+
+Like Louis de Broglie, both methods are founded in Einstein and Planck's quantum formulas. Einstein's E=mc<sup>2</sub>
+and Planck's E=hf. Again: a higher atom weight yields a higher frequency. Hydrogen atom H has weight 1.0080, 
+oxygen atom O weighs 15.9994, hence O is 16 times heavier than the H-atom. (And 16 is the 4th power of 2, so the 
+resonance frequency of oxygen is 4 octaves higher than hydrogen's, but musically it is the same note.)
+
+The typical frequency of a water molecule, molecule weight M=18 g mol<sup>-1</sup>, is 54 Hz (resonates with tone A). 
+Meijer and geesink position this typical frequency of a water mulecule central in their GM-scale. The mass-energy equivalence paired to the Planck-Einstein combination yields more exactly: 
+
+Mc<sup>2</sup> = hf => f (Hz) = 2,981 x M (g mol-<sup>1</sup>). M is the molecule weight of water, c is the speed of light 299,792,458 m/s h is Planck's constant 6.62606959 x 10<sup>-34</sup> and f is the frequency of a water molecule.
+
+
