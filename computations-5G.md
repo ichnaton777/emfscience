@@ -1,4 +1,4 @@
-# Computation of 5G frequenvies optimised in favour of human, animal, soil and plant
+# Computation of 5G frequencies optimised in favour of human, animal, soil and plant
 Wetenschappelijk Platform EMF Nederland.
 Henk Kieft, june 14, 2002. Addendum by Hans Geesink, june 2, 2020
 
