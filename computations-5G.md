@@ -62,5 +62,15 @@ The figure below is the result of his octaving. Thut was completely surprised by
 the human healthy body almost exactly match the frequencies of the 12 tones in an octave.** All non-healthy element, such as lead, 
 are bordering healthy elements.
 
+The original about Thut is that he then analysed **combinations of frequencies**. He thinks in terms of musical harmonics of 
+whole numbers, i.e. standing waves that resonate in the same room. Like in music, clear accords like quint or terts 
+sound harmonic in nature and they amplify each other. He also applies this discovery in his succesful DC treatment of 
+water with frequencies of oxygen (in G) and carbon (in D) which form a quint together. His technique was succesful in 
+tens of countries worldwide. Plants are better at taking up this water, also in saltish soil. 
+
+## Table withe lements and molecules
+
+
+
 
 
