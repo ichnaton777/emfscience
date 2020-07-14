@@ -68,8 +68,9 @@ sound harmonic in nature and they amplify each other. He also applies this disco
 water with frequencies of oxygen (in G) and carbon (in D) which form a quint together. His technique was succesful in 
 tens of countries worldwide. Plants are better at taking up this water, also in saltish soil. 
 
-## Table withe lements and molecules
+## Table with elements and molecules
 
+![Table with elements and molecules](https://raw.githubusercontent.com/ichnaton777/emfscience/master/table-elements-molecules.png)
 
 
 
