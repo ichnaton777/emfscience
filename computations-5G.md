@@ -78,5 +78,11 @@ tone D of the other essential element carbon, which forms carbs with H and O: C<
 In this table, the tone A has frequency 432 Hz. Moreover, it is Thut's opinion that  the base frequency of A should be 
 428,7 Hz instead of 432 Hz. This is the exact frequency of the electron being _most basic in life_.
 
+### Comparison of the GM-scale and the HET-table.
 
+Let's compare the GM-scale of Meijer & Geesink with the Thut's HET-table. Nearly every beneficial frequency Thut found
+corresponds to a life supporting frequency Meijer & Geesink found in scientific literature. The table below lists both
+frequency overviews. The very broad inventory of international publications by Meijer & Geesink and Thut's discovery, which
+has yielded truthfulness in the succesful application of water treatment in agriculture, appear to match. This conclusion 
+amplifies the credibility of both approaches. It also amplifies its relevance for the analysis of possible effects of 5G on life processes.
 
