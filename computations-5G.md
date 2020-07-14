@@ -124,10 +124,14 @@ transmission towers, satellites, antennas and cell phones, but require additiona
 already been produced and installed. This means that a cost/balance consideration is required with an uncommon denominator.
 This will require a political consideration of investment vs. healt.
 
-| Intended freq. for auction  | octaved to base freq | adjusted          | new for auction freq | elements tone |
-| ----------------------------|----------------------|-------------------|----------------------|---------------|
-| 700 Mhz                     | 333,8 :exclamation:  | 342 :green_heart: | 717,2 MHz            | F             |
-
+| Intended freq. for auction  | octaved to base freq | adjusted            | new for auction freq | elements tone |
+| ----------------------------|----------------------|-------------------- |----------------------|---------------|
+| 700 Mhz                     | 333,8 :exclamation:  | 342 :green_heart:   | 717,2 MHz            | F             |
+| 1,4 Ghz                     | 333,8 :exclamation:  | 342 :green_heart:   | 1,434 GHz            | F             |
+| 2,1 Ghz                     | 250,3 :exclamation:  | 256 :green_heart:   | 2,148 GHz            | C4            |
+| 3,5 Ghz                     | 417,2 :exclamation:  | 404,5 :green_heart: | 3,393 GHz            | G#            |
+|                             |                      | 432 :green_heart:   | 3,624 GHz            | A             |
+| 26  Ghz                     | 387,4 :green_heart:  | 384 :green_heart:   | 25,770 GHz           | G             |
 
 
 :green_heart:
