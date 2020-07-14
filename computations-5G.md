@@ -97,7 +97,7 @@ is more comon with do-re-mi etc.  Colour choice of both approaches are also almo
 
 ![](https://raw.githubusercontent.com/ichnaton777/emfscience/master/colors%20and%20harmonics.png)
 
-Like Louis de Broglie, both methods are founded in Einstein and Planck's quantum formulas. Einstein's E=mc<sup>2</sub>
+Like Louis de Broglie, both methods are founded in Einstein and Planck's quantum formulas. Einstein's E=mc<sup>2</sup>
 and Planck's E=hf. Again: a higher atom weight yields a higher frequency. Hydrogen atom H has weight 1.0080, 
 oxygen atom O weighs 15.9994, hence O is 16 times heavier than the H-atom. (And 16 is the 4th power of 2, so the 
 resonance frequency of oxygen is 4 octaves higher than hydrogen's, but musically it is the same note.)
