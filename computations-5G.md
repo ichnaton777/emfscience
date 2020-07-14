@@ -63,9 +63,9 @@ the human healthy body almost exactly match the frequencies of the 12 tones in a
 are bordering healthy elements.
 
 The original about Thut is that he then analysed **combinations of frequencies**. He thinks in terms of musical harmonics of 
-whole numbers, i.e. standing waves that resonate in the same room. Like in music, clear accords like quint or terts 
+whole numbers, i.e. standing waves that resonate in the same room. Like in music, clear accords like kwint or terts 
 sound harmonic in nature and they amplify each other. He also applies this discovery in his succesful DC treatment of 
-water with frequencies of oxygen (in G) and carbon (in D) which form a quint together. His technique was succesful in 
+water with frequencies of oxygen (in G) and carbon (in D) which form a kwint together. His technique was succesful in 
 tens of countries worldwide. Plants are better at taking up this water, also in saltish soil. 
 
 ## Table with elements and molecules
@@ -140,6 +140,17 @@ Thut's table shows the frequency, i.e. the tone, of each element.
 * In A:  the Electron e, Water H<sub>2</sub>O and Phosphate P<sub>2</sub>O<sub>5</sub>
 * In G:  resonate Sulfur, Zinc, Copper, Oxygen, Helium and Hydrogen
 * In D:  Carbon C, Magnesium MG, Platinum Pt, Gold Au, Sulphate SO<sub>4</sub><sup>=</sup> and Titanium Ti.
+
+Let's return to Thut. nature is stuffed with all kinds of frequency patterns and the artificial ones add to those. 
+Thut is looking at the **healt of combinations of tones**.  Although the 5G fewquencies not directly octave to D's
+overtones, this frequency is sensitive because D is in an harmonic ratio to G and A which both directly resonate to
+5G frequencies (see table above). Everything in D vibrates with G and A. 
+The D tone resonates with G in the harminic reatio 3/2 (kwint D:G. You get the ratio 3:2 when you divide the next octave of 
+D (2xf 288 = 576) by the  fG of 384). D resonates harminically with G because D:G = 3/2.
+According to Thut, this is very relevant because then, oxygen (in D) resonates with carbon (in G). Additionally, 
+the kwint on G with D (3/2) with the next kwint (3/2) with A yield the tone where water and the elektron resonate. D:G = 1,5 
+(2x288:384) and A:D = 1,5 (432:288)  
+
 
 
 
