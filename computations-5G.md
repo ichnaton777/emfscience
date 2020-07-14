@@ -133,8 +133,14 @@ This will require a political consideration of investment vs. healt.
 |                             |                      | 432 :green_heart:   | 3,624 GHz            | A             |
 | 26  Ghz                     | 387,4 :green_heart:  | 384 :green_heart:   | 25,770 GHz           | G             |
 
+Thut's table shows the frequency, i.e. the tone, of each element.
+* In F:  resonate the elements Nitrogen, Silicium and the iron-ion Fe<sup>3+</sup>
+* In C:  on the edge (!) of C we find carbondioxyde CO<sub>2</sub>
+* In G#: hydroxyde OH<sup>-</sup>
+* In A:  the electron e, water H<sub>2</sub>O and phosphate P<sub>2</sub>O<sub>5</sub>
+* In G:  resonate Sulfur, Zinc, Copper, Oxygen, Helium and Hydrogen
+* In D:  Carbon C, Magnesium MG, Platinum Pt, Gold Au, Sulphate SO<sub>4</sub><sup>=</sup> and Titanium Ti.
 
-:green_heart:
-:exclamation:
+
 
 
