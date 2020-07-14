@@ -72,6 +72,11 @@ tens of countries worldwide. Plants are better at taking up this water, also in 
 
 ![Table with elements and molecules](https://raw.githubusercontent.com/ichnaton777/emfscience/master/table-elements-molecules.png)
 
+Thut starts his Harmonic Elements Table (HET) with base frequency G (384,9 Hz). For G is the tone of the elements
+hydrogen and oxygen which are essential in biology. Also note water, H<sub>2</sub>0. G harmosises excellently with the 
+tone D of the other essential element carbon, which forms carbs with H and O: C<sub>x</sub>H<sub>y</sub>O<sub>z</sub>. 
+In this table, the tone A has frequency 432 Hz. Moreover, it is Thut's opinion that  the base frequency of A should be 
+428,7 Hz instead of 432 Hz. This is the exact frequency of the electron being _most basic in life_.
 
 
 
