@@ -5,7 +5,7 @@ Henk Kieft, june 14, 2002. Addendum by Hans Geesink, june 2, 2020
 ## Translator notes
 - Original title: Berekening optimale frequenties 5G ten gunste van mens, dier, bodem en plant.
 - Source URL: https://emfscienceplatform.nl/wp-content/uploads/Berekening-aangepaste-frequenties-5G-ten-gunste-van-mens-Henk-Kieft-14-juni-2020.pdf
-- Translation status: initial, partial, unverified
+- Translation status: initial, partial, unverified, puased while waiting for a new version of the source text
 
 ## Introduction
 **Frequencies proposed for 5G in the Netherlands are not beneficial for life 
